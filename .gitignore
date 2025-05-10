@@ -3,10 +3,7 @@ node_modules/
 
 # Ignore .env files with sensitive secrets
 .env
-frontend/.env
-api-gateway/.env
-product-service/.env
-cart-service/.env
+
 
 
 # Ignore build/dist outputs
